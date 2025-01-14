@@ -5,7 +5,7 @@ TODO
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## Skills
+## SKILLS
 
 *Place holder*
 
@@ -17,7 +17,7 @@ Place holder
 
 
 <!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## MY PROJECTS
 
 *A glimpse of some of the projects I've been working on.*
 
