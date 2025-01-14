@@ -5,7 +5,7 @@ TODO
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+## Skills
 
 *Place holder*
 
