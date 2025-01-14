@@ -21,7 +21,7 @@ Place holder
 
 *A glimpse of some of the projects I've been working on.*
 
-**Place holder**
+**How I Helped Pratt & Whitney TODO**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 Place holder
