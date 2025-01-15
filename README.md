@@ -21,7 +21,7 @@ Place holder
 
 *A glimpse of some of the projects I've been working on.*
 
-**How I Helped Pratt & Whitney TODO**
+**How I Helped Pratt & Whitney With Detecting Fan Blade Damage**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 Place holder
@@ -65,7 +65,7 @@ Place holder
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="www.google.com">Download my CV(TODO)</a></td>
     </tr>
     <tr>
       <td>🌐</td>
@@ -73,7 +73,7 @@ Place holder
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://www.youtube.com">PlaceHolder</a></td>
     </tr>
   </tbody>
 </table>
